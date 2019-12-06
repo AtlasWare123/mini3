@@ -57,7 +57,7 @@ connection.commit()
 
 ```
 
-
+![](https://github.com/AtlasWare123/mini3/blob/master/img/table.png)
 
 
 ## MongoDB Procedure
