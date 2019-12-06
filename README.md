@@ -85,7 +85,7 @@ x = mycol.insert_one(mydict)
 
 
 ## Picture
-![](https://github.com/AtlasWare123/mini3/blob/master/img/Figure_1.png）
+![](https://github.com/AtlasWare123/mini3/blob/master/img/Figure_1.png)
 
 
 
